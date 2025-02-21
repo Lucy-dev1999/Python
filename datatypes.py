@@ -1,4 +1,4 @@
-# datatypes specify the type of data that can be stoored inside a variable.
+# datatypes specify the type of data that can be stored inside a variable.
 # data types in python include:
 # numeric(int,float,complex)
 # string
@@ -6,7 +6,6 @@
 #bool   
 #set
 #sequuence(list,tuple,range)
-
 num = 200 #integer value.
 num2 = 200.0 #floating value.
 num3 = 1+ 2j #complex value.
