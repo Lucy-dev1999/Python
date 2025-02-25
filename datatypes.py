@@ -3,7 +3,7 @@
 # numeric(int,float,complex)
 # string
 #mapping
-#bool   
+# boolean   
 #set
 #sequuence(list,tuple,range)
 num = 200 #integer value.

@@ -15,11 +15,11 @@ print(my_things [4][2])
 # in python a variable assigned more than one value is callad a list and it is identified by square brackets.eg.line 3.
 # the first value in the list is in position 0.
 trouble = [20, [30,[100,20,[500]]]]
-print(trouble[1][1][2][0])
-trouble.append(40)
+print(trouble[1][1][2][0]) # accessing the position of 500.
+trouble.append(40)# add
 print(trouble)
-trouble.pop()
+trouble.pop() # remove
 print(trouble)
-#tuple
+#tuple and it is identified by curve brackets.eg line 24. tuples are read only datatypes.
 mytuple = (100,300,500)
 print(mytuple)
