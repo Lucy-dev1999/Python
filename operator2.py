@@ -38,7 +38,7 @@ print(not True)
 print(not False)
 
 # or is when one of the statements is true.
-# and is when all of the statements are true.
+# and is when all of the statements are true but different.
 #not is when the statements is true.
 
 # Membership operators. here we only have is and not.
@@ -47,14 +47,12 @@ print(20 in mem)
 print(20 not in mem)
 
 name = "Ozzy"
-
 print("o" in name)
 print("o" not in name)
 print("O" in name)
 print("O" not in name)
 
 # Identity operators.
-
 a = 10
 b = 10
 print(a is b)
