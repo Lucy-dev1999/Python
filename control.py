@@ -13,5 +13,5 @@ name2 = input("put your name here ")
 print("hello "+ name2)
 print("hello " , name2)
 
-#Program/code to interpret.
+
 

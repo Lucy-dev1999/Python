@@ -23,3 +23,4 @@ print(trouble)
 #tuple and it is identified by curve brackets.eg line 24. tuples are read only datatypes.
 mytuple = (100,300,500)
 print(mytuple)
+
