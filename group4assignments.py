@@ -1,4 +1,4 @@
-"""def student_details():
+def student_details():
       name = input("Enter students name: ")
       age = int(input("Enter students age: "))
       gender = input("Enter students gender: ")
@@ -31,7 +31,7 @@ def mark_sheet():
       total_mark = round(total_marks, 1)
       return total_mark
 
-print(mark_sheet())"""
+print(mark_sheet())
 
 """using dynamic function together with input fuction
 create student details name,age,gender,year of study,
