@@ -45,7 +45,7 @@ def student_details():
     age = int(input("Enter student age: "))
     gender = input("Enter student gender: ")
     year_of_study = input("Enter year of study: ")
-    program= input("Enter program: ")
+    program = input("Enter program: ")
     
     test1 = float(input("Enter Test 1 marks (out of 100): "))
     test2 = float(input("Enter Test 2 marks (out of 100): "))
